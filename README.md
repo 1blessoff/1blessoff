@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, je suis Christ Kouka
 
-<!--
-**1blessoff/1blessoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Développeur Web & Mobile | Créateur d'espaces
 
-Here are some ideas to get you started:
+Je donne vie à vos idées, du premier pixel à la mise en ligne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Services
+- **Développement Web** : Création de sites sur mesure (vitrines, e-commerce, portfolios)
+- **Développement Mobile** : Applications mobiles.
+- **Optimisation SEO** : Référencement naturel et administration de sites
+
+### Mon portfolio
+👉 [christkouka.lovestoblog.com](https://christkouka.lovestoblog.com)
+
+### Contact
+- **Email** : koukachrist48@gmail.com
+- **LinkedIn** : [Christ Kouka](https://www.linkedin.com/in/christ-kouka-aa8863352)
+- **About.me** : [christ.kouka](https://about.me/christ.kouka)
+
+### Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=1blessoff&show_icons=true&theme=tokyonight)
