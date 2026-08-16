@@ -13,9 +13,8 @@ Je donne vie à vos idées, du premier pixel à la mise en ligne.
 👉 [christkouka.lovestoblog.com](https://christkouka.lovestoblog.com)
 
 ### Contact
-- **Email** : koukachrist48@gmail.com
 - **LinkedIn** : [Christ Kouka](https://www.linkedin.com/in/christ-kouka-aa8863352)
 - **About.me** : [christ.kouka](https://about.me/christ.kouka)
-
+- **Instagram** :https://www.instagram.com/christ_kouka3/
 ### Statistiques GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=1blessoff&show_icons=true&theme=tokyonight)
