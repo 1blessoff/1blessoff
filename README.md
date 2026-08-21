@@ -15,6 +15,4 @@ Je donne vie à vos idées, du premier pixel à la mise en ligne.
 ### Contact
 - **LinkedIn** : [Christ Kouka](https://www.linkedin.com/in/christ-kouka-aa8863352)
 - **About.me** : [christ.kouka](https://about.me/christ.kouka)
-- **Instagram** : [christ.kouka] (https://www.instagram.com/christ_kouka3/)
-### Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=1blessoff&show_icons=true&theme=tokyonight)
+- **Instagram** : [christ.kouka](https://www.instagram.com/christ_kouka3/)
