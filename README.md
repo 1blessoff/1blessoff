@@ -1,6 +1,6 @@
  Salut, je suis Christ Kouka
 
-##  Développeur Web & Mobile 
+##  Développeur Web | Freelancer 
 
 Je donne vie à vos idées, du premier pixel à la mise en ligne.
 
