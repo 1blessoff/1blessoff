@@ -10,7 +10,7 @@ Je donne vie à vos idées, du premier pixel à la mise en ligne.
 - **Optimisation SEO** : Référencement naturel et administration de sites
 
 ### Mon portfolio
-👉 [christ-kouka-bless.vercel.app](https://christ-kouka-bless.vercel.app)
+👉 [christ kouka portofolio](https://christ-kouka-bless.vercel.app)
 
 ### Contact
 - **LinkedIn** : [Christ Kouka](https://www.linkedin.com/in/christ-kouka-aa8863352)
