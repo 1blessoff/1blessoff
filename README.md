@@ -17,3 +17,4 @@ Je donne vie à vos idées, du premier pixel à la mise en ligne.
 - **About.me** : [christ.kouka](https://about.me/christ.kouka)
 - **Instagram** : [christ.kouka](https://www.instagram.com/christ_kouka3/)
 - **Discord** : [Christ kouka](https://discord.com/users/1534448261862129765)
+- **X* : [Christ kouka](https://https://x.com/christ_kouka)
